@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 * Data Visualization Certificate | [Certificate](https://www.dicoding.com/certificates/QLZ9KEGNEZ5D)
 * Machine Learning Development | [Certificate](https://www.dicoding.com/certificates/EYX47499OXDL)
 * Applied Machine Learning | [Certificate](https://www.dicoding.com/certificates/81P22E9R8POY)
+* Machine Learning A-Z™: Hands-On Python & R In Data Science | [Certificate](https://www.udemy.com/certificate/UC-85845751-8c92-4791-a272-ac3f520a0d5a/)
+* Data Science Foundation | [Certificate](https://www.udemy.com/course/data-science-foundation/learn/lecture/26158746?start=0#overview)
 
 ## Tools
 <img align="left" alt="VsCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
