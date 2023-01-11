@@ -6,7 +6,7 @@
 <br/>
 
 ## About Me
-I am now a student at Pelita Bangsa University, and work as IT Support and Digital Marketing at [Disi Training Center](https://disitrainingcenter.com/) and [Training Rumah Sakit](https://trainingrumahsakit.co.id/).I love AI/Machine Learning and Android Development, they can work together and make an interesting app. So I focus on these two areas, and I really hope that I can help many people with the knowledge I have.
+I am now a student at Pelita Bangsa University, and work as IT Support and Digital Marketing at [Disi Training Center](https://disitrainingcenter.com/) and [Training Rumah Sakit](https://trainingrumahsakit.co.id/). I love AI/Machine Learning and Android Development, they can work together and make an interesting app. So I focus on these two areas, and I really hope that I can help many people with the knowledge I have.
 
 Here are some ideas to get you started:
 - 🌐 Visit my [porfolio](https://github.com/AgufSamudra) for complete background and contact.
