@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 * Machine Learning A-Z™: Hands-On Python & R In Data Science | [Certificate](https://www.udemy.com/certificate/UC-85845751-8c92-4791-a272-ac3f520a0d5a/)
 
 ## Tools
-<img align="left" alt="VsCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
 <img align="left" alt="scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
 <img align="left" alt="tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="PyTorch" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/1920px-Kotlin_logo_2021.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="sheet" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Android" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" style="padding-right:10px;" />
 <img align="left" alt="powerBI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="juoyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="colab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" style="padding-right:10px;" />
