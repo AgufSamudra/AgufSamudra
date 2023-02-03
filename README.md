@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a person who likes coffee and tea, not one of them
 
 ## Certificate
-* Data Visualization Certificate | [Certificate](https://www.dicoding.com/certificates/QLZ9KEGNEZ5D)
 * Machine Learning Development | [Certificate](https://www.dicoding.com/certificates/EYX47499OXDL)
 * Applied Machine Learning | [Certificate](https://www.dicoding.com/certificates/81P22E9R8POY)
 * Machine Learning A-Z™: Hands-On Python & R In Data Science | [Certificate](https://www.udemy.com/certificate/UC-85845751-8c92-4791-a272-ac3f520a0d5a/)
+* Machine Learning & Data Science 2022 | [Certificate](https://www.udemy.com/certificate/UC-ada1984f-78dc-411a-946c-cd9b29660f7b/)
 
 ## Tools
 <img align="left" alt="scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
