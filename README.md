@@ -11,7 +11,7 @@ I am now a student at Pelita Bangsa University, and work as an IT Support and Di
 Here are some ideas to get you started:
 - 🌐 Visit my [porfolio](https://github.com/AgufSamudra) for complete background and contact.
 - ✍️ [Medium Profile](https://medium.com/@agufsamudra)
-- 🔭 I’m currently working on [Disi Training Center](https://disitrainingcenter.com/) and [Training Rumah Sakit](https://trainingrumahsakit.co.id/)
+- 🔭 I’m currently working on [Disi Training Center](https://disi.co.id/)
 - 📫 How to reach me: gufranakasamudra2003@gmail.com
 - ⚡ Fun fact: I'm a person who likes coffee and tea, not one of them
 
