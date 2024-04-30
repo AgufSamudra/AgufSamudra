@@ -6,7 +6,7 @@
 <br/>
 
 ## About Me
-I am now a student at Pelita Bangsa University, and work as an IT Support and Digital Marketing at [Disi Training Center](https://disitrainingcenter.com/) and [Hospital Training](https://trainingrumahsakit.co.id/ ). I love AI/Machine Learning, this tool is like magic to help many people tirelessly.
+I am now a student at Pelita Bangsa University, and work as an Software Developer at [Disi Training Center](https://disi.co.id/) I love AI/Machine Learning, this tool is like magic to help many people tirelessly.
 
 Here are some ideas to get you started:
 - 🌐 Visit my [porfolio](https://github.com/AgufSamudra) for complete background and contact.
