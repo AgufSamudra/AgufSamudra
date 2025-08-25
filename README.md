@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Wakatime Stats](https://wakatime.com/share/@81fd1828-2325-47c1-a012-22410bd15778/a2e39bab-e4c4-408c-8b96-5c6365753a34.svg)
-
 ---
 
 <br/>
