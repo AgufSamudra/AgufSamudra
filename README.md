@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### Stats 📋
+
+| WakaTime Stats                                                                                                                                   | Contribution Streak                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agufsamudra&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=agufsamudra&count_private=true&theme=tokyonight" /> |
+
 ---
 
 <br/>
