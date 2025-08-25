@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 ---
 
+### ⏳ Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <br/>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=AgufSamudra&show_icons=true&theme=bear" width = 400>
