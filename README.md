@@ -37,20 +37,8 @@ Here are some ideas to get you started:
 
 ---
 
-### ⏳ Weekly development breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Stats 📋
 
 | WakaTime Stats                                                                                                                                   | Contribution Streak                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agufsamudra&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=agufsamudra&count_private=true&theme=tokyonight" /> |
-
----
-
-<br/>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AgufSamudra&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AgufSamudra&theme=dark&hide_border=true" width = 400>
-</p> 
