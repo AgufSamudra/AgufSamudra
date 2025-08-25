@@ -6,7 +6,7 @@
 <br/>
 
 ## About Me
-I am now a student at Pelita Bangsa University, and work as an Software Developer at [Disi Training Center](https://disi.co.id/) I love AI/Machine Learning, this tool is like magic to help many people tirelessly.
+AI Engineer (backend) at Regene Genomics. Experienced as R&D Software Developer 2 Years, and have 2+ years experience in Machine Learning and Data, currently working as a Freelancer related to machine learning or AI on Fastwork.id platform, graduated from BAKGIT Academy 2024 Batch 1 Machine Learning pathway.
 
 Here are some ideas to get you started:
 - 🌐 Visit my [porfolio](https://github.com/AgufSamudra) for complete background and contact.
